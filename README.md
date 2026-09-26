@@ -2,6 +2,12 @@
 
 Portfolio personnel présentant les projets LOUHILL PROPRETÉ et EduKids.
 
+## Coordonnées LOUHILL PROPRETÉ
+
+- Téléphone : 06 60 14 95 67
+- E-mail : louhillproprete@gmail.com
+- Zone d’intervention : Meyzieu et alentours, dans un rayon de 20 km
+
 ## Mise en ligne
 
 Le site est composé de fichiers HTML, CSS et JavaScript sans dépendance. Il peut être publié avec GitHub Pages depuis la branche `main` et le dossier `/root`.
@@ -13,4 +19,4 @@ Le site est composé de fichiers HTML, CSS et JavaScript sans dépendance. Il pe
 
 ## À personnaliser
 
-Remplacer dans `index.html` le texte « À renseigner » par le téléphone, l’e-mail et la zone d’intervention définitifs.
+Les coordonnées peuvent être modifiées directement dans `index.html` si nécessaire.
